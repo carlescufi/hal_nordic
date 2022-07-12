@@ -2,3 +2,7 @@ name: hal_nordic
 build:
   cmake-ext: True
   kconfig-ext: True
+blobs:
+  blob-type: lib
+  license-path: zephyr/blob-lic.txt
+  uri: https://
